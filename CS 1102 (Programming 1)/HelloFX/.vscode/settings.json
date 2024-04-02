@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx-swt.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.base.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.controls.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.fxml.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.graphics.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.media.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.swing.jar",
+        "/Users/mac/Downloads/javafx-sdk-21.0.1/lib/javafx.web.jar",
+        "/Users/mac/Downloads/org.json-chargebee-1.0 2.jar",
+    ]
+}
