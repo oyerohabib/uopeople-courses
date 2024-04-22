@@ -17,6 +17,14 @@ _Introduction to the fundamentals of programming using a specific programming la
 
 _Continuation of Programming 1, focusing on more advanced topics such as object-oriented programming, advanced data structures, and algorithms._
 
+## Usage
+
+To explore the course materials, navigate to the respective course directory.
+
+## Disclaimer
+
+The code and solutions provided in this repository are intended to guide you in your learning process. These are answers to university assignments, and you should not copy the entire code for your submissions. Use these materials to understand the concepts and develop your own solutions.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
